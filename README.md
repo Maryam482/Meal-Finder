@@ -1,4 +1,4 @@
-# Recipe-finder
+# Meal-finder
 
 **Build With**
 - Bootstrap
@@ -6,4 +6,4 @@
 - The Meal DB Api
 
 **Have A Look**
-[Project](https://jawariaalvi-project3.netlify.app/)
+[Live Demo] https://meal-finder-app-project3.netlify.app/
